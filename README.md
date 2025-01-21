@@ -43,13 +43,6 @@
 
 ---
 
-<!-- Dynamic Activity Graph -->
-### 🏆 Contribution Graph
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=itishosseinian&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true" alt="GitHub Activity Graph" />
-</p>
-
----
 
 <!-- Fun Quotes Section -->
 ### 💡 Inspiration
@@ -70,8 +63,3 @@
 
 ---
 
-<!-- Random Memes or Fun -->
-### 😂 Memes to Brighten Your Day!
-<p align="center">
-  <img src="https://random-memer.herokuapp.com/" alt="Random Meme" />
-</p>
