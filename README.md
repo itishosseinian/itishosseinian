@@ -23,7 +23,7 @@
 - 📫 How to reach me: **amir.hoseiinian@gmail.com**  
 
 ---
-
+### 👨‍💻 My Skills
 <!-- Languages and Tools Section -->
 [![My Skills](https://skillicons.dev/icons?i=py,js,aiscript,bots,postman,anaconda,react,htmx,html,fastapi,django,gitlab,selenium,mongodb,postgres,mysql,redis,rabbitmq,docker,sklearn,tensorflow,opencv&perline=15)](https://skillicons.dev)
 
@@ -32,16 +32,8 @@
 <!-- GitHub Stats -->
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itishosseinian&show_icons=true&theme=radical"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=itishosseinian&theme=radical"/>
 </p>
-
-<!-- Top Languages -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itishosseinian&show_icons=true&locale=en&layout=compact&theme=radical" alt="itishosseinian" />
-</p>
-
----
 
 
 <!-- Fun Quotes Section -->
