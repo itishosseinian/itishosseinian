@@ -25,15 +25,15 @@
 ---
 
 <!-- Languages and Tools Section -->
-[![My Skills](https://skillicons.dev/icons?i=py,js,aiscript,bots,anaconda,react,htmx,html,fastapi,django,gitlab,selenium,mongodb,postgres,mysql,redis,rabbitmq,docker,sklearn,tensorflow,opencv&perline=20)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,js,aiscript,bots,postman,anaconda,react,htmx,html,fastapi,django,gitlab,selenium,mongodb,postgres,mysql,redis,rabbitmq,docker,sklearn,tensorflow,opencv&perline=15)](https://skillicons.dev)
 
 ---
 
 <!-- GitHub Stats -->
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itishosseinian&show_icons=true&theme=radical" alt="itishosseinian" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itishosseinian&theme=radical" alt="itishosseinian" />
+  <img src="https://github-readme-stats.vercel.app/api?username=itishosseinian&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itishosseinian&theme=radical"/>
 </p>
 
 <!-- Top Languages -->
@@ -50,16 +50,5 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quotes" />
 </p>
 
----
-
-<!-- Connect with Me -->
-### 🤝 Connect with Me
-<p>
-  <a href="https://linkedin.com/in/your-profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="your-linkedin" height="30" width="40" /></a>
-  <a href="https://twitter.com/your-profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="your-twitter" height="30" width="40" /></a>
-  <a href="https://instagram.com/your-profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="your-instagram" height="30" width="40" /></a>
-  <a href="https://dev.to/your-profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="your-devto" height="30" width="40" /></a>
-</p>
-
----
+![Amazon Alexa](https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white)
 
