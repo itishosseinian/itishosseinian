@@ -25,7 +25,7 @@
 ---
 
 <!-- Languages and Tools Section -->
-[![My Skills](https://skillicons.dev/icons?i=py,aws,aiscript,anaconda,react,rabbitmq,docker,fastapi,django,gitlab,selenium,js,mongodb,postgres,opencv,redis,wordpress&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,js,aiscript,anaconda,react,htmx,html,fastapi,django,gitlab,selenium,,mongodb,postgres,opencv,redis,rabbitmq,docker&perline=10)](https://skillicons.dev)
 
 ---
 
