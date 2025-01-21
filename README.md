@@ -33,14 +33,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itishosseinian&show_icons=true&locale=en&layout=compact&theme=radical" alt="itishosseinian" />
 </p>
+
 ---
 
 
-<!-- Fun Quotes Section -->
-### 💡 Inspiration
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quotes" />
-</p>
 
 ![Amazon Alexa](https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white)
 
