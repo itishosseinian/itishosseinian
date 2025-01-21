@@ -25,7 +25,7 @@
 ---
 
 <!-- Languages and Tools Section -->
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,aws,aiscript,anaconda,react,rabbitmq,docker,fastapi,django,gitlab,selenium,js,mongodb,postgres,opencv,redis,wordpress&perline=10)](https://skillicons.dev)
 
 ---
 
