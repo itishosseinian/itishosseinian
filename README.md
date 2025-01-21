@@ -20,7 +20,7 @@
 - 🌱 I’m learning **[Go/React]**  
 - 👨‍💻 Check out my educational website: [Codemate Tv](https://codematetv.com)  
 - 💬 Ask me about **[Automation / Smart Systems / Data Scraping]**  
-- 📫 How to reach me: **[amir.hoseiinian@gmail.com]**  
+- 📫 How to reach me: **amir.hoseiinian@gmail.com**  
 
 ---
 
