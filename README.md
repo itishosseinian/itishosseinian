@@ -1,6 +1,6 @@
 <!-- Header with an Animated Greeting -->
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">A passionate developer and engineer who loves building cool things!</h3>
+<h1 align="center">Hi 👋, I'm Amirhossein</h1>
+<h3 align="center">A passionate developer and engineer who loves building cool things about automation and data scraping!</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;I'm+a+%3CDeveloper%2F%3E;Lifelong+Learner+and+Problem+Solver!;Open+to+Collaborations!">
@@ -16,13 +16,11 @@
 <!-- About Section -->
 ### 🌟 About Me
 
-- 🔭 I’m currently working on **[Your Current Project Name](link-to-project)**  
-- 🌱 I’m learning **[Specific Technology/Tool]**  
-- 🤝 I’m looking for help with **[Area You Need Help With]**  
-- 👨‍💻 Check out my portfolio: [your-portfolio-link](https://your-portfolio-link.com)  
-- 💬 Ask me about **[Topics of Expertise]**  
-- 📫 How to reach me: **[Your Email]**  
-- ⚡ Fun fact: *[Share a fun fact about yourself!]*  
+- 🔭 I’m currently working on **[Making a Scraping Service in Local Country]**  
+- 🌱 I’m learning **[Go/React]**  
+- 👨‍💻 Check out my educational website: [Codemate Tv](https://codematetv.com)  
+- 💬 Ask me about **[Automation / Smart Systems / Data Scraping]**  
+- 📫 How to reach me: **[amir.hoseiinian@gmail.com]**  
 
 ---
 
