@@ -10,7 +10,7 @@
 
 <!-- Profile Views Badge -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=brightgreen&style=flat" alt="your-username" />
+  <img src="https://komarev.com/ghpvc/?username=itishosseinian&label=Profile%20views&color=brightgreen&style=flat" alt="itishosseinian" />
 </p>
 
 <!-- About Section -->
@@ -43,13 +43,13 @@
 <!-- GitHub Stats -->
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="your-username" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="your-username" />
+  <img src="https://github-readme-stats.vercel.app/api?username=itishosseinian&show_icons=true&theme=radical" alt="itishosseinian" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itishosseinian&theme=radical" alt="itishosseinian" />
 </p>
 
 <!-- Top Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=your-username&show_icons=true&locale=en&layout=compact&theme=radical" alt="your-username" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itishosseinian&show_icons=true&locale=en&layout=compact&theme=radical" alt="itishosseinian" />
 </p>
 
 ---
@@ -57,7 +57,7 @@
 <!-- Dynamic Activity Graph -->
 ### 🏆 Contribution Graph
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=your-username&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=itishosseinian&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
