@@ -29,11 +29,11 @@
 
 ---
 
-<!-- GitHub Stats -->
-### 📊 GitHub Stats
+<!-- Top Languages -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itishosseinian&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itishosseinian&show_icons=true&locale=en&layout=compact&theme=radical" alt="itishosseinian" />
 </p>
+---
 
 
 <!-- Fun Quotes Section -->
