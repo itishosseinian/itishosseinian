@@ -14,7 +14,7 @@
 </p>
 
 <!-- About Section -->
-### 🌟 About Me
+🌟 About Me
 
 - 🔭 I’m currently working on **Making a Scraping Service in Local Country**  
 - 🌱 I’m learning **Go/React**  
@@ -23,7 +23,7 @@
 - 📫 How to reach me: **amir.hoseiinian@gmail.com**  
 
 ---
-### 👨‍💻 My Skills
+👨‍💻 My Skills
 <!-- Languages and Tools Section -->
 [![My Skills](https://skillicons.dev/icons?i=py,js,aiscript,bots,postman,anaconda,react,htmx,html,fastapi,django,gitlab,selenium,mongodb,postgres,mysql,redis,rabbitmq,docker,sklearn,tensorflow,opencv&perline=15)](https://skillicons.dev)
 
