@@ -6,13 +6,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=500&color=8B0000&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;I'm+a+%3CData Scraper%2F%3E;Lifelong+Learner+and+Problem+Solver!;Open+to+Collaborations!">
 </p>
 
----
+-----------------------------------
 
 <!-- Profile Views Badge -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=itishosseinian&label=Profile%20views&color=brightgreen&style=flat" alt="itishosseinian" />
 </p>
----
+--------------------------------
 <!-- Languages and Tools Section -->
 ### 🌟 About Me
 
