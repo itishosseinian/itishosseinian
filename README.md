@@ -12,7 +12,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=itishosseinian&label=Profile%20views&color=brightgreen&style=flat" alt="itishosseinian" />
 </p>
+
 --------------------------------
+
 <!-- Languages and Tools Section -->
 ### 🌟 About Me
 
