@@ -13,7 +13,7 @@
   <img src="https://komarev.com/ghpvc/?username=itishosseinian&label=Profile%20views&color=brightgreen&style=flat" alt="itishosseinian" />
 </p>
 
-<!-- About Section -->
+
 ### 🌟 About Me
 
 - 🔭 I’m currently working on **Making a Scraping Service in Local Country**  
@@ -22,7 +22,7 @@
 - 💬 Ask me about **Automation / Smart Systems / Data Scraping**  
 - 📫 How to reach me: **amir.hoseiinian@gmail.com**  
 
----
+
 ### 👨‍💻 My Skills
 <!-- Languages and Tools Section -->
 [![My Skills](https://skillicons.dev/icons?i=py,js,aiscript,bots,postman,anaconda,react,htmx,html,fastapi,django,gitlab,selenium,mongodb,postgres,mysql,redis,rabbitmq,docker,sklearn,tensorflow,opencv&perline=15)](https://skillicons.dev)
