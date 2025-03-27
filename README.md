@@ -21,7 +21,7 @@
 - 🔭 I’m currently working on **Making a Scraping Service in Local Country**  
 - 🌱 I’m learning **Go/React**  
 - 👨‍💻 Check out my educational website: **Codemate Tv** (https://codematetv.com)  
-- 💬 Ask me about **Automation / Smart Systems / Data Scraping / Web Development **  
+- 💬 Ask me about **Automation / Smart Systems / Data Scraping / Web Development**  
 - 📫 How to reach me: **amir.hoseiinian@gmail.com**  
 
 ----------------------------
