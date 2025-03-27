@@ -18,7 +18,7 @@
 <!-- Languages and Tools Section -->
 ### 🌟 About Me
 
-- 🔭 I’m currently working on **Making a Scraping Service in Local Country**  
+- 🔭 I’m currently working on **a Scraping Service in Local Area**  
 - 🌱 I’m learning **Go/React**  
 - 👨‍💻 Check out my educational website: **Codemate Tv** (https://codematetv.com)  
 - 💬 Ask me about **Automation / Smart Systems / Data Scraping / Web Development**  
