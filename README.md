@@ -3,7 +3,7 @@
 <h3 align="center">A passionate developer and engineer who loves building cool things about automation and data scraping!</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=500&color=8B0000&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;I'm+a+%3CData Scraper%2F%3E;Lifelong+Learner+and+Problem+Solver!;Open+to+Collaborations!">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+Profile!;I'm+a+%3CData+Scraper%2F%3E;Lifelong+Learner+and+Problem+Solver!;Open+to+Collaborations!&center=true&vCenter=true&width=600&size=28&pause=500&color=8B0000" alt="Typing SVG" />
 </p>
 
 -----------------------------------
