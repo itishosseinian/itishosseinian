@@ -10,7 +10,7 @@
 
 <!-- Profile Views Badge -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=itishosseinian&label=Profile%20views&color=brightgreen&style=flat" alt="itishosseinian" />
+  <img src="https://komarev.com/ghpvc/?username=itishosseinian&label=Profile%20views&color=white&style=flat" alt="itishosseinian" />
 </p>
 
 --------------------------------
